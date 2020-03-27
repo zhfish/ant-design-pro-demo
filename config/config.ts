@@ -59,7 +59,7 @@ export default defineConfig({
             {
               path: '/welcome',
               name: 'welcome',
-              icon: 'SendOutline',
+              icon: 'SendOutlined',
               component: './Welcome',
             },
             {
